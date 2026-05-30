@@ -104,7 +104,7 @@ const alejandro: Developer = {
 | Proyecto | Descripción | Stack | Link |
 |---|---|---|---|
 | 🤖 **WhiteLabel AI** | Plataforma B2B de pagos y comunicaciones con IA conversacional, WhatsApp API y chat en tiempo real | Next.js · NestJS · AWS · OpenAI · Pusher | Empresa |
-| 🏛️ **Escuela Judicial Rodrigo Lara Bonilla** | Sitio institucional para la escuela judicial del Estado colombiano | Drupal · PHP | [🔗 Ver](https://www.ejrlb.gov.co) |
+| 🏛️ **Escuela Judicial Rodrigo Lara Bonilla** | Sitio institucional para la escuela judicial del Estado colombiano | Drupal · PHP | [🔗 Ver]([https://www.ejrlb.gov.co](https://drupalescuelajudicial.innovahub.org)) |
 | 🗳️ **Electoral Commission of Fiji** | Sitio web gubernamental para la comisión electoral de Fiji 🇫🇯 | WordPress · Divi Builder | Internacional |
 | 🧠 **Plataforma Educación Psicológica** | App educativa full-stack con API propia en Laravel y frontend en Next.js | Laravel · React · Next.js | Freelance |
 | 📁 **Gestor Documental** | Sistema de gestión documental con drag & drop, árbol de archivos y firma digital | Next.js · NestJS · Prisma · TypeScript | Empresa |
